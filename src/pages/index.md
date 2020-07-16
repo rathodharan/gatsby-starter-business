@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
-title: Rathod & Haran
-heading: Chartered Accountants
+title: 'Rathod & Haran, Chartered Accountants'
+heading: About Us
 description: >-
   Rathod & Haran is a full service Chartered Accountant firm and financial
   advisory firm in Mumbai, India with experience across sectors, geographies and
