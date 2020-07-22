@@ -24,18 +24,16 @@ offerings:
         ipsum sem, dapibus nec eros in, feugiat sagittis mi.  Nullam et dui
         interdum, varius nibh eu, efficitur metus.
     - image: /img/audit.png
-      text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
-        Nam  ipsum nulla, dapibus eu mi non, commodo commodo sapien.
-        Pellentesque luctus  neque id mauris accumsan, nec imperdiet justo
-        eleifend. Nulla viverra, ipsum  sit amet interdum pharetra, felis lorem
-        sollicitudin felis, vehicula finibus  enim nunc facilisis sapien. Donec
-        nulla nisi, dictum quis nibh et, euismod  semper eros. Praesent nunc
-        tortor, consequat eu justo ac, dictum viverra enim.  Etiam sed dui
-        dapibus mauris congue facilisis. Nulla convallis, lectus vel  vehicula
-        interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam
-        consectetur congue.
+      text: >-
+        Statutory Audit & Assurance
+
+
+        Auditing & Assurance Services are at the core of any Financial
+        Management setup. It ensures proper working of the organisation
+        according to laid down internal controls and also the efficiency and
+        effectiveness of the controls itself.We offer a complete range of
+        Assurance Solutions to help improve your financial efficiency, accuracy
+        and stability. 
     - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
