@@ -28,7 +28,7 @@ offerings:
         Auditing & Assurance Services are at the core of any Financial
         Management setup. It ensures proper working of the organisation
         according to laid down internal controls and also the efficiency and
-        effectiveness of the controls itself.We offer a complete range of
+        effectiveness of the controls itself. We offer a complete range of
         Assurance Solutions to help improve your financial efficiency, accuracy
         and stability. 
     - image: /img/tutorials.png
