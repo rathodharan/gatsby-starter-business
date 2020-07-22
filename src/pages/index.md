@@ -32,12 +32,12 @@ offerings:
         and stability. 
     - image: /img/advisory.png
       text: >-
-        Businesses are exposed to multiple challenges and aggressive competition
-        on day-to-day basis making sustainability and growth a struggle. Rathod
-        & Haran senior management have executed large and complex project across
-        various industries and the execution team is a mix of dynamic
-        professionals aiding businesses to identify risk and deal with
-        uncertainty.
+        Advisory - businesses are exposed to multiple challenges and aggressive
+        competition on day-to-day basis making sustainability and growth a
+        struggle. Rathod & Haran senior management have executed large and
+        complex project across various industries and the execution team is a
+        mix of dynamic professionals aiding businesses to identify risk and deal
+        with uncertainty.
 
 
         Rathod & Haran integrates its capabilities across offices to create
