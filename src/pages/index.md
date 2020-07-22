@@ -25,9 +25,6 @@ offerings:
         interdum, varius nibh eu, efficitur metus.
     - image: /img/audit.png
       text: >-
-        Statutory Audit & Assurance
-
-
         Auditing & Assurance Services are at the core of any Financial
         Management setup. It ensures proper working of the organisation
         according to laid down internal controls and also the efficiency and
