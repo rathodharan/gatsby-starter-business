@@ -30,19 +30,21 @@ offerings:
         effectiveness of the controls itself. We offer a complete range of
         Assurance Solutions to help improve your financial efficiency, accuracy
         and stability. 
-    - image: /img/tutorials.png
-      text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
-        vitae sollicitudin  pharetra, ipsum augue tristique urna, in rhoncus
-        quam tortor eget sem. Maecenas eu  pharetra orci, ut malesuada nisl.
-        Aliquam erat volutpat. Curabitur egestas eros tincidunt,  scelerisque
-        lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla.
-        Aliquam  erat volutpat. Vivamus ultrices venenatis maximus. Donec
-        volutpat vitae quam at fringilla.  Sed luctus lacus vel tempus posuere.
-        Ut suscipit auctor tortor. Phasellus leo dui, elementum  non
-        sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet
-        porttitor vehicula,  quam augue pretium erat, at commodo nisl tellus non
-        risus.
+    - image: /img/advisory.png
+      text: >-
+        Businesses are exposed to multiple challenges and aggressive competition
+        on day-to-day basis making sustainability and growth a struggle. Rathod
+        & Haran senior management have executed large and complex project across
+        various industries and the execution team is a mix of dynamic
+        professionals aiding businesses to identify risk and deal with
+        uncertainty.
+
+
+        Rathod & Haran integrates its capabilities across offices to create
+        customized solutions to enable you to undertake business
+        transformations, business reorganizations, and implementation of growth
+        and expansion plans, tighten compliance and control processes in today’s
+        dynamic digital business environment.
     - image: /img/meeting-space.png
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
