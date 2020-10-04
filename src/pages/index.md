@@ -58,17 +58,7 @@ offerings:
         improve operations. The team of Rathod & Haran domain expert will aid
         you in off loading the complex work and help you focus on executing your
         big ideas.
-testimonials:
-  - author: Vaibhav Sharma
-    quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-      ligula. 
-  - author: Subarashi San
-    quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
-      elit.
+testimonials: []
 meta_title: Home | Rathod & Haran
 meta_description: 'Chartered Accountants, Mumbai - India.'
 ---
